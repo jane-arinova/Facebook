@@ -59,7 +59,7 @@ public class Jazeera extends BaseDriver {
         WebElement signUpButton = driver.findElement(By.xpath("//button[@name='websubmit']"));
         signUpButton.click();
         MyMethods.myWait(1);
-
+        System.out.println("done");
 
   waitAndQuit();
 
