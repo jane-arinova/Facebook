@@ -1,4 +1,4 @@
-package Jazeera.Utilities;
+package Group_1_FB_Project.Utilities;
 
 public class MyMethods {
 

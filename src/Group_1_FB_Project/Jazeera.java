@@ -1,13 +1,13 @@
-package Jazeera;
+package Group_1_FB_Project;
+// TEST CASE - CreateNewAccountWithPhoneNumber
 
-
-import Jazeera.Utilities.BaseDriver;
-import Jazeera.Utilities.MyMethods;
+import Group_1_FB_Project.Utilities.BaseDriver;
+import Group_1_FB_Project.Utilities.MyMethods;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-public class CreateNewAccountWithPhoneNumber extends BaseDriver {
+public class Jazeera extends BaseDriver {
 
     @Test
     public void  Test1() {

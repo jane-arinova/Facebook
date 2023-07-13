@@ -1,4 +1,4 @@
-package Jazeera.Utilities;
+package Group_1_FB_Project.Utilities;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
